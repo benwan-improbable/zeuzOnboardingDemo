@@ -12,10 +12,10 @@ export JRE_HOME=${JAVA_HOME}/jre
 export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib  
 export PATH=${JAVA_HOME}/bin:$PATH
 
-echo "JAVA_HOME:"$JAVA_HOME
-echo "JRE_HOME:"$JRE_HOME
-echo "CLASSPATH:"$CLASSPATH
-echo "PATH:"$PATH
+#echo "JAVA_HOME:"$JAVA_HOME
+#echo "JRE_HOME:"$JRE_HOME
+#echo "CLASSPATH:"$CLASSPATH
+#echo "PATH:"$PATH
 
 # test java version
 # java -version
