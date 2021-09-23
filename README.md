@@ -1,5 +1,14 @@
 # zeuzOnboardingDemo
 
+### Project description
+
+base on a same Chess project https://github.com/arpansahoo/reactjs-chess 
+wrap it with different language implementation.
+
+GoChess - Go Http server
+PythonChess - Python Http server
+JavaChess - Java Http server
+
 ### zeuztool command
 
 Figure out the endpoint value
